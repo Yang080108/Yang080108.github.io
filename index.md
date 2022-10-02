@@ -6,10 +6,8 @@ this is a temporary note page for Yang080108
   
   
 10/1 树上问题
-
 	树dp：
-		
-		求树的直径
+	求树的直径
 		
 			1. 2次dfs 
 
@@ -52,12 +50,18 @@ this is a temporary note page for Yang080108
 	独立集问题
 		
 10/2 图论问题
-|	|时间复杂度	|空间复杂度	|备注
+
+|	|时间复杂度	|空间复杂度	|备注|
+
 | -----------: | -----------: | -----------: | -----------: |
-|Dijkstra	|$O(V^2)$	|$O(V^2)$|不能有负边
-|Bellman Ford	|$O(VE)$	|$O(E)$	|可以判负环
-|Floyd	|$O(V^3)$	|$O(V^2)$	|[传递闭包](https://iai.sh.cn/problem/503)
-|堆优化Dijkstra	|$O(ElgV)$||
+
+|Dijkstra	|$O(V^2)$	|$O(V^2)$|不能有负边|
+
+|Bellman Ford	|$O(VE)$	|$O(E)$	|可以判负环|
+
+|Floyd	|$O(V^3)$	|$O(V^2)$	|[传递闭包](https://iai.sh.cn/problem/503)|
+
+|堆优化Dijkstra	|$O(ElgV)$|||
 		
 			
 
