@@ -50,18 +50,8 @@ this is a temporary note page for Yang080108
 	独立集问题
 		
 10/2 图论问题
+![image](https://user-images.githubusercontent.com/107249565/193443422-52516b4a-2178-4a11-beb0-bc887cae9723.png)
 
-|	|时间复杂度	|空间复杂度	|备注|
-
-| -----------: | -----------: | -----------: | -----------: |
-
-|Dijkstra	|$O(V^2)$	|$O(V^2)$|不能有负边|
-
-|Bellman Ford	|$O(VE)$	|$O(E)$	|可以判负环|
-
-|Floyd	|$O(V^3)$	|$O(V^2)$	|[传递闭包](https://iai.sh.cn/problem/503)|
-
-|堆优化Dijkstra	|$O(ElgV)$|||
 		
 			
 
