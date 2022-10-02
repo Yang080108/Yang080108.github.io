@@ -1,7 +1,3 @@
 ## Welcome to GitHub Pages by Yang080108
 
-You can use the [editor on GitHub](https://github.com/Yang080108/Yang080108.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-
+this is a temporary note page for Yang080108
